@@ -5537,6 +5537,11 @@ public final class Settings {
          * @hide
          */
         public static final String BRIGHTNESS_SLIDER_STYLE = "brightness_slider_style";
+		
+		/**
+         * @hide
+         */
+        public static final String UI_STYLE = "ui_style";
 
         /**
          * Keys we no longer back up under the current schema, but want to continue to
@@ -5701,6 +5706,7 @@ public final class Settings {
             PRIVATE_SETTINGS.add(USE_OLD_MOBILETYPE);
             PRIVATE_SETTINGS.add(SCREENSHOT_SOUND);
             PRIVATE_SETTINGS.add(BRIGHTNESS_SLIDER_STYLE);
+	    PRIVATE_SETTINGS.add(UI_STYLE);
         }
 
         /**
