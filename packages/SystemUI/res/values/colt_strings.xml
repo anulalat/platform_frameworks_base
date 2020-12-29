@@ -153,4 +153,11 @@
     <string name="dlg_ok">@android:string/ok</string>
     <string name="dlg_cancel">@android:string/cancel</string>
     <string name="guts_force_close_app">Close App</string>
+
+    <!-- Headphones Buddy -->
+    <string name="hp_buddy">Headphones Buddy</string>
+    <string name="hp_buddy_left">Left only</string>
+    <string name="hp_buddy_right">Right only</string>
+    <string name="hp_buddy_center">Both</string>
+    <string name="hp_buddy_not_connected">Connect your headphones</string>
 </resources>
